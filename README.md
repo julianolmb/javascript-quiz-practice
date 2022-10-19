@@ -8,7 +8,7 @@ To add more questions open [a relative link](questions.json) and
 
 - Add the right answer id to [a relative link](template.json)
 
-# JSON Possibilities
+# JSON Template Possibilities (For future reference)
 
 ```JSON
 
