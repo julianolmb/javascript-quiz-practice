@@ -1,6 +1,12 @@
-# javascript-quiz-practice
+# Javascript Quiz Practice
 
 A vanilla javascript quiz to practice core JS skills
+
+To add more questions open [a relative link](questions.json) and
+
+- Insert a new question with a set of answers by following the id naming logic: id: "question(number)" and answer: "question(number)\_answer(1 to 4)"
+
+- Add the right answer id to [a relative link](template.json)
 
 # JSON Possibilities
 
